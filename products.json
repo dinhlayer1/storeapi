@@ -1,0 +1,43 @@
+[
+    {
+        "name": "iphone 14 pro max",
+        "price": 21000000,
+        "feartured": true,
+        "company": "apple"
+    },
+    {
+        "name": "note 10 plus",
+        "price": 10000000,
+        "feartured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "xiaomi pro",
+        "price": 21000000,
+        "rating": 4.8,
+        "company": "mi"
+    },
+    {
+        "name": "Dell XPS",
+        "price": 50000000,
+        "feartured": true,
+        "company": "dell"
+    },
+    {
+        "name": "note 20 ultra",
+        "price": 32000000,
+        "company": "samsung"
+    },
+    {
+        "name": "xiaomi redmmi note 11",
+        "price": 4090000,
+        "rating": 4.6,
+        "company": "mi"
+    },
+    {
+        "name": "Samsung Galaxy S23 Ultra 5G",
+        "price": 26990000,
+        "feartured": true,
+        "company": "samsung"
+    }
+]
